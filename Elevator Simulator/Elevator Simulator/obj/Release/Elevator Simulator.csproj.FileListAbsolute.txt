@@ -1,0 +1,8 @@
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\bin\Release\Elevator Simulator.exe.config
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\bin\Release\Elevator Simulator.exe
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\bin\Release\Elevator Simulator.pdb
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Release\Elevator_Simulator.Form1.resources
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Release\Elevator_Simulator.Properties.Resources.resources
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Release\Elevator Simulator.csproj.GenerateResource.Cache
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Release\Elevator Simulator.exe
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Release\Elevator Simulator.pdb

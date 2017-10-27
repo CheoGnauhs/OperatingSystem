@@ -1,0 +1,9 @@
+C:\Users\tan35\documents\visual studio 2017\Projects\FileSystem\FileSystem\bin\Release\FileSystem.exe.config
+C:\Users\tan35\documents\visual studio 2017\Projects\FileSystem\FileSystem\bin\Release\FileSystem.exe
+C:\Users\tan35\documents\visual studio 2017\Projects\FileSystem\FileSystem\bin\Release\FileSystem.pdb
+C:\Users\tan35\documents\visual studio 2017\Projects\FileSystem\FileSystem\obj\Release\FileSystem.csprojResolveAssemblyReference.cache
+C:\Users\tan35\documents\visual studio 2017\Projects\FileSystem\FileSystem\obj\Release\FileSystem.Form1.resources
+C:\Users\tan35\documents\visual studio 2017\Projects\FileSystem\FileSystem\obj\Release\FileSystem.Properties.Resources.resources
+C:\Users\tan35\documents\visual studio 2017\Projects\FileSystem\FileSystem\obj\Release\FileSystem.csproj.GenerateResource.Cache
+C:\Users\tan35\documents\visual studio 2017\Projects\FileSystem\FileSystem\obj\Release\FileSystem.exe
+C:\Users\tan35\documents\visual studio 2017\Projects\FileSystem\FileSystem\obj\Release\FileSystem.pdb

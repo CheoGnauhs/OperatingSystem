@@ -1,0 +1,9 @@
+C:\Users\tan35\documents\visual studio 2017\Projects\MemeryAllocation\MemeryAllocation\bin\Debug\MemeryAllocation.exe.config
+C:\Users\tan35\documents\visual studio 2017\Projects\MemeryAllocation\MemeryAllocation\bin\Debug\MemeryAllocation.exe
+C:\Users\tan35\documents\visual studio 2017\Projects\MemeryAllocation\MemeryAllocation\bin\Debug\MemeryAllocation.pdb
+C:\Users\tan35\documents\visual studio 2017\Projects\MemeryAllocation\MemeryAllocation\obj\Debug\MemeryAllocation.csprojResolveAssemblyReference.cache
+C:\Users\tan35\documents\visual studio 2017\Projects\MemeryAllocation\MemeryAllocation\obj\Debug\MemeryAllocation.MemeryAllocation.resources
+C:\Users\tan35\documents\visual studio 2017\Projects\MemeryAllocation\MemeryAllocation\obj\Debug\MemeryAllocation.Properties.Resources.resources
+C:\Users\tan35\documents\visual studio 2017\Projects\MemeryAllocation\MemeryAllocation\obj\Debug\MemeryAllocation.csproj.GenerateResource.Cache
+C:\Users\tan35\documents\visual studio 2017\Projects\MemeryAllocation\MemeryAllocation\obj\Debug\MemeryAllocation.exe
+C:\Users\tan35\documents\visual studio 2017\Projects\MemeryAllocation\MemeryAllocation\obj\Debug\MemeryAllocation.pdb

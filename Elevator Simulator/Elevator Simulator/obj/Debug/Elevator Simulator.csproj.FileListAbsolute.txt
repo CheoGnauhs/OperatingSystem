@@ -1,0 +1,9 @@
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\bin\Debug\Elevator Simulator.exe.config
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\bin\Debug\Elevator Simulator.exe
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\bin\Debug\Elevator Simulator.pdb
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Debug\Elevator Simulator.csprojResolveAssemblyReference.cache
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Debug\Elevator_Simulator.Form1.resources
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Debug\Elevator_Simulator.Properties.Resources.resources
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Debug\Elevator Simulator.csproj.GenerateResource.Cache
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Debug\Elevator Simulator.exe
+C:\Users\tan35\documents\visual studio 2017\Projects\Elevator Simulator\Elevator Simulator\obj\Debug\Elevator Simulator.pdb
